@@ -1,4 +1,4 @@
-<img src="https://sempreupdate.com.br/varios-projetos-de-codigo-aberto-de-alto-nivel-vazaram-tokens-de-autenticacao-do-github/" alt="Banner Arthur Rosa Fontes" width="100%">
+<img src="[https://sempreupdate.com.br/varios-projetos-de-codigo-aberto-de-alto-nivel-vazaram-tokens-de-autenticacao-do-github/](https://uploads.sempreupdate.com.br/2024/08/varios-projetos-de-codigo-aberto-de-alto-nivel-vazaram-tokens-de-autenticacao-do-github-1024x576.webp)" alt="Banner Arthur Rosa Fontes" width="100%">
 
 <h2 align="center">Bem vindo, sou o Arthur Rosa Fontes 👋</h2>
 
@@ -23,9 +23,9 @@
 ### 🧠 Sobre mim
 
 * 👨‍💻 Buscando minha primeira oportunidade de estágio em desenvolvimento de software.
-* ⚙️ Construindo projetos full-stack com **Node.js, MongoDB, MySQL e Tailwind CSS**.
+* ⚙️ Construindo projetos full-stack com Node.js, MongoDB, MySQL e Tailwind CSS.
 * 🚀 Gosto de resolver problemas reais com código, desde automações desktop até plataformas web de impacto social.
-* 📚 Atualmente aprofundando conhecimentos em **Python, Java, JavaScript, Bancos de Dados (Relacionais e NoSQL) e Metodologias Ágeis (Kanban/Scrum)**.
+* 📚 Atualmente aprofundando conhecimentos em **Python, Java, JavaScript, Bancos de Dados (Relacionais e NoSQL) e Metodologias Ágeis.
 
 ---
 
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ---
