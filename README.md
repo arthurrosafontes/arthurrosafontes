@@ -1,4 +1,4 @@
-<img src="https://uploads.sempreupdate.com.br/2024/08/varios-projetos-de-codigo-aberto-de-alto-nivel-vazaram-tokens-de-autenticacao-do-github-1024x576.webp" alt="Banner Arthur Rosa Fontes" width="100%">
+<img src="banner.jpg" alt="Banner Welcome" width="100%">
 
 <h2 align="center">Bem vindo, sou o Arthur Rosa Fontes 👋</h2>
 
